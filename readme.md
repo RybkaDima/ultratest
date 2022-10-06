@@ -13,3 +13,4 @@
 ![Floppa2][floppa]
 ![Floppa3][floppa]
 ![Floppa4][floppa]
+![Тестовая картинка](img/test.png)
